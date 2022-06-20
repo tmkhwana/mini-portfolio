@@ -24,6 +24,12 @@ const Main = () => {
                         I am passionate in developing innovative programs that expedite the efficiency and effectiveness of organizational success and
                         writing code to create systems that are reliable and user-friendly.
                     </p>
+
+                    <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
+                        The first-hand insight and knowledge that I would garner from SovTech, I believe would make a huge impact on my carrer growth.
+                        Getting into this graduate programme would mean being surrounded by leading thinker, seniors in the tech field that I'd be able
+                        to draw knowledge and experience from.
+                    </p>
                     <div className='flex items-center justify-between max-w-[300px] m-auto py4'>
                         <a href='https://www.linkedin.com/in/thembile-mkhwanazi-917165192/'
                            target='_blank'
